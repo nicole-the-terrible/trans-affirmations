@@ -1,0 +1,11 @@
+{
+  "name": "trans-affirmation",
+  "version": "1.0.0",
+  "description": "randomly genarate affirmation to cheer you up! why do i make this? IDK i'm bored",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
