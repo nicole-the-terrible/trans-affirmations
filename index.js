@@ -1,9 +1,9 @@
 const MTF = [
-
+  "insert",
 ];
 
 const FTM = [
-
+  "insert",
 ];
 
 function affForMTF() {
