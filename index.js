@@ -17,5 +17,5 @@ function affForFTM() {
 }
 
 module.exports = { affForMTF, affForFTM };
-
+// Tehe :3
 
